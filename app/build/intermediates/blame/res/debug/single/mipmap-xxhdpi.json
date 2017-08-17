@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle_white_48dp.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle_white_48dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_chat_white_48dp.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_white_48dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle_black_48dp.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle_black_48dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alarm_white_48dp.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alarm_white_48dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\user_icon.png",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\mipmap-xxhdpi\\user_icon.png"
+    }
+]

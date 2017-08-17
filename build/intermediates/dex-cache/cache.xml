@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ProjectPI\backup\Konsultasi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b79dc02dd142d32730ec310fd20270fde840c13">
+        <dex dex="D:\ProjectPI\backup\Konsultasi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0c269416bc7e177e0f6d95a85912c0b651744c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X550Z FX\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\ProjectPI\backup\Konsultasi\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_63a2ecb474bd81b8aae3efc32eb93c62a1e19f4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProjectPI\backup\Konsultasi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\ProjectPI\backup\Konsultasi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cad640dd0d1749c484b9128061bdc2842df197df\classes.dex" />
+    </item>
+
+</items>

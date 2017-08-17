@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slideup_anim.xml",
+        "source": "D:\\ProjectPI\\backup\\Konsultasi\\app\\src\\main\\res\\anim\\slideup_anim.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\33eeac2d82e2fc67539646eb6398511649fcdb7d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\2a4ac1f5118083043a2c515797339c65ae647517\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

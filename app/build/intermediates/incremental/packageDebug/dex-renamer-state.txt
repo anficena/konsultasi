@@ -1,0 +1,7 @@
+#Thu Aug 17 20:00:07 ICT 2017
+base.0=D\:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c269416bc7e177e0f6d95a85912c0b651744c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cad640dd0d1749c484b9128061bdc2842df197df\\classes.dex
+base.1=D\:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cad640dd0d1749c484b9128061bdc2842df197df
+file.0=D\:\\ProjectPI\\backup\\Konsultasi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c269416bc7e177e0f6d95a85912c0b651744c2\\classes.dex
